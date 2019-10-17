@@ -1,0 +1,4 @@
+[01-Jan-2017 10:50:39 America/New_York] PHP Fatal error:  Class 'IXR_Server' not found in /home/cannqrfw/public_html/wp-includes/IXR/class-IXR-introspectionserver.php on line 10
+[01-Jan-2017 10:50:39 America/New_York] PHP Fatal error:  Class 'IXR_Client' not found in /home/cannqrfw/public_html/wp-includes/IXR/class-IXR-clientmulticall.php on line 9
+[24-Sep-2017 11:44:25 America/New_York] PHP Fatal error:  Class 'IXR_Server' not found in /home/cannqrfw/public_html/wp-includes/IXR/class-IXR-introspectionserver.php on line 10
+[24-Sep-2017 11:44:25 America/New_York] PHP Fatal error:  Class 'IXR_Client' not found in /home/cannqrfw/public_html/wp-includes/IXR/class-IXR-clientmulticall.php on line 9

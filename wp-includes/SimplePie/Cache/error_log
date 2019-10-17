@@ -1,0 +1,8 @@
+[01-Jan-2017 10:51:09 America/New_York] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/cannqrfw/public_html/wp-includes/SimplePie/Cache/DB.php on line 52
+[01-Jan-2017 10:51:09 America/New_York] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/cannqrfw/public_html/wp-includes/SimplePie/Cache/File.php on line 52
+[01-Jan-2017 10:51:09 America/New_York] PHP Fatal error:  Class 'SimplePie_Cache_DB' not found in /home/cannqrfw/public_html/wp-includes/SimplePie/Cache/MySQL.php on line 58
+[01-Jan-2017 10:51:09 America/New_York] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/cannqrfw/public_html/wp-includes/SimplePie/Cache/Memcache.php on line 59
+[24-Sep-2017 11:44:49 America/New_York] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/cannqrfw/public_html/wp-includes/SimplePie/Cache/DB.php on line 52
+[24-Sep-2017 11:44:49 America/New_York] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/cannqrfw/public_html/wp-includes/SimplePie/Cache/File.php on line 52
+[24-Sep-2017 11:44:50 America/New_York] PHP Fatal error:  Class 'SimplePie_Cache_DB' not found in /home/cannqrfw/public_html/wp-includes/SimplePie/Cache/MySQL.php on line 58
+[24-Sep-2017 11:44:50 America/New_York] PHP Fatal error:  Interface 'SimplePie_Cache_Base' not found in /home/cannqrfw/public_html/wp-includes/SimplePie/Cache/Memcache.php on line 59

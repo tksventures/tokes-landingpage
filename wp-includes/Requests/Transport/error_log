@@ -1,0 +1,4 @@
+[01-Jan-2017 10:51:08 America/New_York] PHP Fatal error:  Interface 'Requests_Transport' not found in /home/cannqrfw/public_html/wp-includes/Requests/Transport/cURL.php on line 15
+[01-Jan-2017 10:51:08 America/New_York] PHP Fatal error:  Interface 'Requests_Transport' not found in /home/cannqrfw/public_html/wp-includes/Requests/Transport/fsockopen.php on line 15
+[24-Sep-2017 11:44:49 America/New_York] PHP Fatal error:  Interface 'Requests_Transport' not found in /home/cannqrfw/public_html/wp-includes/Requests/Transport/cURL.php on line 15
+[24-Sep-2017 11:44:49 America/New_York] PHP Fatal error:  Interface 'Requests_Transport' not found in /home/cannqrfw/public_html/wp-includes/Requests/Transport/fsockopen.php on line 15

@@ -1,0 +1,2 @@
+[01-Jan-2017 10:51:08 America/New_York] PHP Fatal error:  Interface 'Requests_Proxy' not found in /home/cannqrfw/public_html/wp-includes/Requests/Proxy/HTTP.php on line 19
+[24-Sep-2017 11:44:48 America/New_York] PHP Fatal error:  Interface 'Requests_Proxy' not found in /home/cannqrfw/public_html/wp-includes/Requests/Proxy/HTTP.php on line 19
