@@ -1,0 +1,4 @@
+[01-Jan-2017 10:51:39 America/New_York] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/cannqrfw/public_html/wp-content/plugins/cornerstone/includes/classes/customizer/class-customize-control-textarea.php on line 3
+[01-Jan-2017 10:51:39 America/New_York] PHP Fatal error:  Class 'Cornerstone_Plugin_Component' not found in /home/cannqrfw/public_html/wp-content/plugins/cornerstone/includes/classes/customizer/class-customizer-manager.php on line 3
+[01-Jan-2017 10:51:39 America/New_York] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/cannqrfw/public_html/wp-content/plugins/cornerstone/includes/classes/customizer/class-customize-control-code-editor.php on line 3
+[01-Jan-2017 10:51:39 America/New_York] PHP Fatal error:  Class 'WP_Customize_Control' not found in /home/cannqrfw/public_html/wp-content/plugins/cornerstone/includes/classes/customizer/class-customize-control-huebert.php on line 3

@@ -1,0 +1,4 @@
+[01-Jan-2017 10:49:17 America/New_York] PHP Fatal error:  Call to undefined function x_get_view() in /home/cannqrfw/public_html/wp-content/themes/x/index.php on line 18
+[11-Jun-2017 07:04:37 America/New_York] PHP Fatal error:  Call to undefined function x_get_view() in /home/cannqrfw/public_html/wp-content/themes/x/index.php on line 18
+[24-Sep-2017 11:43:11 America/New_York] PHP Fatal error:  Call to undefined function x_get_view() in /home/cannqrfw/public_html/wp-content/themes/x/index.php on line 18
+[06-May-2018 13:48:03 America/New_York] PHP Fatal error:  Call to undefined function x_get_view() in /home/cannqrfw/public_html/wp-content/themes/x/404.php on line 17

@@ -1,0 +1,8 @@
+[01-Jan-2017 10:51:36 America/New_York] PHP Fatal error:  Class 'Cornerstone_Plugin_Component' not found in /home/cannqrfw/public_html/wp-content/plugins/cornerstone/includes/classes/common/class-tco.php on line 7
+[01-Jan-2017 10:51:36 America/New_York] PHP Fatal error:  Class 'Cornerstone_Plugin_Component' not found in /home/cannqrfw/public_html/wp-content/plugins/cornerstone/includes/classes/common/class-alpha.php on line 7
+[01-Jan-2017 10:51:36 America/New_York] PHP Fatal error:  Class 'Cornerstone_Plugin_Component' not found in /home/cannqrfw/public_html/wp-content/plugins/cornerstone/includes/classes/common/class-router.php on line 9
+[01-Jan-2017 10:51:36 America/New_York] PHP Fatal error:  Class 'Cornerstone_Plugin_Component' not found in /home/cannqrfw/public_html/wp-content/plugins/cornerstone/includes/classes/common/class-common.php on line 7
+[01-Jan-2017 10:51:36 America/New_York] PHP Fatal error:  Class 'Cornerstone_Plugin_Component' not found in /home/cannqrfw/public_html/wp-content/plugins/cornerstone/includes/classes/common/class-front-end.php on line 8
+[01-Jan-2017 10:51:36 America/New_York] PHP Fatal error:  Class 'Cornerstone_Plugin_Component' not found in /home/cannqrfw/public_html/wp-content/plugins/cornerstone/includes/classes/common/class-prerelease.php on line 7
+[01-Jan-2017 10:51:36 America/New_York] PHP Fatal error:  Class 'Cornerstone_Plugin_Component' not found in /home/cannqrfw/public_html/wp-content/plugins/cornerstone/includes/classes/common/class-integration-manager.php on line 8
+[01-Jan-2017 10:51:36 America/New_York] PHP Fatal error:  Class 'Cornerstone_Plugin_Component' not found in /home/cannqrfw/public_html/wp-content/plugins/cornerstone/includes/classes/common/class-core-scripts.php on line 8

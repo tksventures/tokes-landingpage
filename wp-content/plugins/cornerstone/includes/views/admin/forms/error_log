@@ -1,0 +1,20 @@
+[01-Jan-2017 10:51:52 America/New_York] PHP Notice:  Undefined variable: name in /home/cannqrfw/public_html/wp-content/plugins/cornerstone/includes/views/admin/forms/text.php on line 4
+[01-Jan-2017 10:51:52 America/New_York] PHP Notice:  Undefined variable: name in /home/cannqrfw/public_html/wp-content/plugins/cornerstone/includes/views/admin/forms/text.php on line 5
+[01-Jan-2017 10:51:52 America/New_York] PHP Notice:  Undefined variable: value in /home/cannqrfw/public_html/wp-content/plugins/cornerstone/includes/views/admin/forms/text.php on line 6
+[01-Jan-2017 10:51:52 America/New_York] PHP Notice:  Undefined variable: type in /home/cannqrfw/public_html/wp-content/plugins/cornerstone/includes/views/admin/forms/text.php on line 10
+[01-Jan-2017 10:51:52 America/New_York] PHP Fatal error:  Call to undefined function cs_atts() in /home/cannqrfw/public_html/wp-content/plugins/cornerstone/includes/views/admin/forms/text.php on line 17
+[01-Jan-2017 10:51:52 America/New_York] PHP Notice:  Undefined variable: for in /home/cannqrfw/public_html/wp-content/plugins/cornerstone/includes/views/admin/forms/field.php on line 3
+[01-Jan-2017 10:51:52 America/New_York] PHP Notice:  Undefined variable: title in /home/cannqrfw/public_html/wp-content/plugins/cornerstone/includes/views/admin/forms/field.php on line 4
+[01-Jan-2017 10:51:52 America/New_York] PHP Notice:  Undefined variable: description in /home/cannqrfw/public_html/wp-content/plugins/cornerstone/includes/views/admin/forms/field.php on line 5
+[01-Jan-2017 10:51:52 America/New_York] PHP Notice:  Undefined variable: control in /home/cannqrfw/public_html/wp-content/plugins/cornerstone/includes/views/admin/forms/field.php on line 8
+[01-Jan-2017 10:51:53 America/New_York] PHP Notice:  Undefined variable: name in /home/cannqrfw/public_html/wp-content/plugins/cornerstone/includes/views/admin/forms/checkbox.php on line 4
+[01-Jan-2017 10:51:53 America/New_York] PHP Notice:  Undefined variable: name in /home/cannqrfw/public_html/wp-content/plugins/cornerstone/includes/views/admin/forms/checkbox.php on line 5
+[01-Jan-2017 10:51:53 America/New_York] PHP Notice:  Undefined variable: type in /home/cannqrfw/public_html/wp-content/plugins/cornerstone/includes/views/admin/forms/checkbox.php on line 9
+[01-Jan-2017 10:51:53 America/New_York] PHP Notice:  Undefined variable: value in /home/cannqrfw/public_html/wp-content/plugins/cornerstone/includes/views/admin/forms/checkbox.php on line 12
+[01-Jan-2017 10:51:53 America/New_York] PHP Notice:  Undefined variable: name in /home/cannqrfw/public_html/wp-content/plugins/cornerstone/includes/views/admin/forms/checkbox.php on line 18
+[01-Jan-2017 10:51:53 America/New_York] PHP Fatal error:  Call to undefined function cs_atts() in /home/cannqrfw/public_html/wp-content/plugins/cornerstone/includes/views/admin/forms/checkbox.php on line 19
+[01-Jan-2017 10:51:53 America/New_York] PHP Notice:  Undefined variable: name in /home/cannqrfw/public_html/wp-content/plugins/cornerstone/includes/views/admin/forms/multi-select.php on line 4
+[01-Jan-2017 10:51:53 America/New_York] PHP Notice:  Undefined variable: name in /home/cannqrfw/public_html/wp-content/plugins/cornerstone/includes/views/admin/forms/multi-select.php on line 5
+[01-Jan-2017 10:51:53 America/New_York] PHP Notice:  Undefined variable: value in /home/cannqrfw/public_html/wp-content/plugins/cornerstone/includes/views/admin/forms/multi-select.php on line 6
+[01-Jan-2017 10:51:53 America/New_York] PHP Notice:  Undefined variable: type in /home/cannqrfw/public_html/wp-content/plugins/cornerstone/includes/views/admin/forms/multi-select.php on line 9
+[01-Jan-2017 10:51:53 America/New_York] PHP Fatal error:  Call to undefined function wp_json_encode() in /home/cannqrfw/public_html/wp-content/plugins/cornerstone/includes/views/admin/forms/multi-select.php on line 10

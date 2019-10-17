@@ -1,0 +1,2 @@
+[01-Jan-2017 10:49:54 America/New_York] PHP Fatal error:  Call to undefined function untrailingslashit() in /home/cannqrfw/public_html/wp-content/plugins/x-email-mailchimp/x-email-mailchimp.php on line 27
+[24-Sep-2017 11:43:43 America/New_York] PHP Fatal error:  Call to undefined function untrailingslashit() in /home/cannqrfw/public_html/wp-content/plugins/x-email-mailchimp/x-email-mailchimp.php on line 27

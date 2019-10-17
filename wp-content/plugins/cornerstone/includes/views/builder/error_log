@@ -1,0 +1,3 @@
+[01-Jan-2017 10:51:33 America/New_York] PHP Notice:  Undefined variable: cs_v1_base_margin in /home/cannqrfw/public_html/wp-content/plugins/cornerstone/includes/views/builder/styles.php on line 6
+[01-Jan-2017 10:51:33 America/New_York] PHP Fatal error:  Using $this when not in object context in /home/cannqrfw/public_html/wp-content/plugins/cornerstone/includes/views/builder/preloader.php on line 2
+[01-Jan-2017 10:51:34 America/New_York] PHP Fatal error:  Call to undefined function apply_filters() in /home/cannqrfw/public_html/wp-content/plugins/cornerstone/includes/views/builder/boilerplate.php on line 5

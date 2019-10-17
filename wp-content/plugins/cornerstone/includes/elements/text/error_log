@@ -1,0 +1,2 @@
+[01-Jan-2017 10:51:40 America/New_York] PHP Notice:  Undefined variable: text_align in /home/cannqrfw/public_html/wp-content/plugins/cornerstone/includes/elements/text/shortcode.php on line 7
+[01-Jan-2017 10:51:40 America/New_York] PHP Fatal error:  Call to undefined function esc_attr() in /home/cannqrfw/public_html/wp-content/plugins/cornerstone/includes/elements/text/shortcode.php on line 7

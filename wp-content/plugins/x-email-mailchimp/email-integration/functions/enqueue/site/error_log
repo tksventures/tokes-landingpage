@@ -1,0 +1,1 @@
+[01-Jan-2017 10:51:47 America/New_York] PHP Fatal error:  Call to undefined function wp_enqueue_script() in /home/cannqrfw/public_html/wp-content/plugins/x-email-mailchimp/email-integration/functions/enqueue/site/scripts.php on line 19

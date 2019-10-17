@@ -1,0 +1,2 @@
+[01-Jan-2017 10:51:47 America/New_York] PHP Fatal error:  Call to undefined function get_current_screen() in /home/cannqrfw/public_html/wp-content/plugins/x-email-mailchimp/email-integration/functions/enqueue/admin/styles.php on line 19
+[01-Jan-2017 10:51:47 America/New_York] PHP Fatal error:  Call to undefined function get_current_screen() in /home/cannqrfw/public_html/wp-content/plugins/x-email-mailchimp/email-integration/functions/enqueue/admin/scripts.php on line 19

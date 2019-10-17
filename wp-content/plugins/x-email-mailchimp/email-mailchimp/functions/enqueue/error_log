@@ -1,0 +1,1 @@
+[01-Jan-2017 10:51:48 America/New_York] PHP Fatal error:  Call to undefined function add_action() in /home/cannqrfw/public_html/wp-content/plugins/x-email-mailchimp/email-mailchimp/functions/enqueue/scripts.php on line 28

@@ -1,0 +1,6 @@
+[01-Jan-2017 10:51:11 America/New_York] PHP Fatal error:  Call to undefined function __() in /home/cannqrfw/public_html/wp-content/plugins/cornerstone/includes/i18n/admin.php on line 7
+[01-Jan-2017 10:51:11 America/New_York] PHP Fatal error:  Call to undefined function __() in /home/cannqrfw/public_html/wp-content/plugins/cornerstone/includes/i18n/app.php on line 4
+[01-Jan-2017 10:51:11 America/New_York] PHP Fatal error:  Call to undefined function __() in /home/cannqrfw/public_html/wp-content/plugins/cornerstone/includes/i18n/options.php on line 4
+[01-Jan-2017 10:51:11 America/New_York] PHP Fatal error:  Call to undefined function __() in /home/cannqrfw/public_html/wp-content/plugins/cornerstone/includes/i18n/headers.php on line 4
+[01-Jan-2017 10:51:11 America/New_York] PHP Fatal error:  Call to undefined function __() in /home/cannqrfw/public_html/wp-content/plugins/cornerstone/includes/i18n/generator.php on line 10
+[01-Jan-2017 10:51:11 America/New_York] PHP Fatal error:  Call to undefined function __() in /home/cannqrfw/public_html/wp-content/plugins/cornerstone/includes/i18n/builder.php on line 10

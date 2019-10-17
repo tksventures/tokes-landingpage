@@ -1,0 +1,1 @@
+[01-Jan-2017 10:51:19 America/New_York] PHP Fatal error:  Class 'X_Email_Provider' not found in /home/cannqrfw/public_html/wp-content/plugins/x-email-mailchimp/email-mailchimp/functions/provider.php on line 19

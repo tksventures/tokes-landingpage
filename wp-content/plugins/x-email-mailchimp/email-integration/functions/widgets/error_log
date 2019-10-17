@@ -1,0 +1,1 @@
+[01-Jan-2017 10:51:19 America/New_York] PHP Fatal error:  Class 'WP_Widget' not found in /home/cannqrfw/public_html/wp-content/plugins/x-email-mailchimp/email-integration/functions/widgets/subscribe.php on line 18

@@ -1,0 +1,2 @@
+[01-Jan-2017 10:51:37 America/New_York] PHP Fatal error:  Class 'Cornerstone_Plugin_Component' not found in /home/cannqrfw/public_html/wp-content/plugins/cornerstone/includes/classes/styling/class-coalescence.php on line 3
+[01-Jan-2017 10:51:37 America/New_York] PHP Fatal error:  Class 'Cornerstone_Plugin_Component' not found in /home/cannqrfw/public_html/wp-content/plugins/cornerstone/includes/classes/styling/class-style-loader.php on line 3

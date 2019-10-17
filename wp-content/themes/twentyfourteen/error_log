@@ -1,0 +1,12 @@
+[11-Jun-2017 07:04:36 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/cannqrfw/public_html/wp-content/themes/twentyfourteen/index.php on line 17
+[17-Sep-2017 14:23:31 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/cannqrfw/public_html/wp-content/themes/twentyfourteen/404.php on line 10
+[17-Sep-2017 14:23:31 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/cannqrfw/public_html/wp-content/themes/twentyfourteen/index.php on line 17
+[08-Oct-2017 17:00:07 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/cannqrfw/public_html/wp-content/themes/twentyfourteen/404.php on line 10
+[17-Oct-2017 10:00:43 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/cannqrfw/public_html/wp-content/themes/twentyfourteen/404.php on line 10
+[04-Nov-2017 17:36:00 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/cannqrfw/public_html/wp-content/themes/twentyfourteen/404.php on line 10
+[19-Nov-2017 03:16:44 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/cannqrfw/public_html/wp-content/themes/twentyfourteen/404.php on line 10
+[15-Dec-2017 15:51:26 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/cannqrfw/public_html/wp-content/themes/twentyfourteen/404.php on line 10
+[26-Jan-2018 14:32:23 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/cannqrfw/public_html/wp-content/themes/twentyfourteen/404.php on line 10
+[04-Feb-2018 20:46:45 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/cannqrfw/public_html/wp-content/themes/twentyfourteen/404.php on line 10
+[04-Feb-2018 20:46:45 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/cannqrfw/public_html/wp-content/themes/twentyfourteen/404.php on line 10
+[16-Sep-2018 07:39:45 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/cannqrfw/public_html/wp-content/themes/twentyfourteen/404.php on line 10

@@ -1,0 +1,3 @@
+[01-Jan-2017 10:50:59 America/New_York] PHP Fatal error:  Class 'X_Email_Integration_Base' not found in /home/cannqrfw/public_html/wp-content/plugins/x-email-mailchimp/email-integration/functions/plugin.php on line 19
+[01-Jan-2017 10:50:59 America/New_York] PHP Fatal error:  Using $this when not in object context in /home/cannqrfw/public_html/wp-content/plugins/x-email-mailchimp/email-integration/functions/includes.php on line 21
+[01-Jan-2017 10:50:59 America/New_York] PHP Fatal error:  Call to undefined function register_post_type() in /home/cannqrfw/public_html/wp-content/plugins/x-email-mailchimp/email-integration/functions/post-types.php on line 19

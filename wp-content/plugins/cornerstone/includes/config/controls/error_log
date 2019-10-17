@@ -1,0 +1,2 @@
+[01-Jan-2017 10:51:40 America/New_York] PHP Fatal error:  Call to undefined function __() in /home/cannqrfw/public_html/wp-content/plugins/cornerstone/includes/config/controls/mixins.php on line 12
+[01-Jan-2017 10:51:40 America/New_York] PHP Fatal error:  Call to undefined function __() in /home/cannqrfw/public_html/wp-content/plugins/cornerstone/includes/config/controls/animation-choices.php on line 4

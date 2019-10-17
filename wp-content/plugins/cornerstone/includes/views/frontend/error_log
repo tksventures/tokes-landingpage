@@ -1,0 +1,36 @@
+[01-Jan-2017 10:51:34 America/New_York] PHP Notice:  Undefined variable: cs_v1_base_margin_extended in /home/cannqrfw/public_html/wp-content/plugins/cornerstone/includes/views/frontend/styles.php on line 4
+[01-Jan-2017 10:51:34 America/New_York] PHP Notice:  Undefined variable: cs_v1_base_margin in /home/cannqrfw/public_html/wp-content/plugins/cornerstone/includes/views/frontend/styles.php on line 31
+[01-Jan-2017 10:51:34 America/New_York] PHP Notice:  Undefined variable: cs_v1_base_margin in /home/cannqrfw/public_html/wp-content/plugins/cornerstone/includes/views/frontend/styles.php on line 38
+[01-Jan-2017 10:51:34 America/New_York] PHP Notice:  Undefined variable: cs_v1_base_margin in /home/cannqrfw/public_html/wp-content/plugins/cornerstone/includes/views/frontend/styles.php on line 39
+[01-Jan-2017 10:51:34 America/New_York] PHP Notice:  Undefined variable: cs_v1_base_margin in /home/cannqrfw/public_html/wp-content/plugins/cornerstone/includes/views/frontend/styles.php on line 45
+[01-Jan-2017 10:51:34 America/New_York] PHP Notice:  Undefined variable: cs_v1_base_margin in /home/cannqrfw/public_html/wp-content/plugins/cornerstone/includes/views/frontend/styles.php on line 46
+[01-Jan-2017 10:51:34 America/New_York] PHP Notice:  Undefined variable: cs_v1_base_margin in /home/cannqrfw/public_html/wp-content/plugins/cornerstone/includes/views/frontend/styles.php on line 53
+[01-Jan-2017 10:51:34 America/New_York] PHP Notice:  Undefined variable: cs_v1_container_width in /home/cannqrfw/public_html/wp-content/plugins/cornerstone/includes/views/frontend/styles.php on line 63
+[01-Jan-2017 10:51:34 America/New_York] PHP Notice:  Undefined variable: cs_v1_container_max_width in /home/cannqrfw/public_html/wp-content/plugins/cornerstone/includes/views/frontend/styles.php on line 67
+[01-Jan-2017 10:51:34 America/New_York] PHP Notice:  Undefined variable: cs_v1_text_color in /home/cannqrfw/public_html/wp-content/plugins/cornerstone/includes/views/frontend/styles.php on line 79
+[01-Jan-2017 10:51:34 America/New_York] PHP Notice:  Undefined variable: cs_v1_link_color in /home/cannqrfw/public_html/wp-content/plugins/cornerstone/includes/views/frontend/styles.php on line 93
+[01-Jan-2017 10:51:34 America/New_York] PHP Notice:  Undefined variable: cs_v1_link_color in /home/cannqrfw/public_html/wp-content/plugins/cornerstone/includes/views/frontend/styles.php on line 97
+[01-Jan-2017 10:51:34 America/New_York] PHP Notice:  Undefined variable: cs_v1_link_color in /home/cannqrfw/public_html/wp-content/plugins/cornerstone/includes/views/frontend/styles.php on line 104
+[01-Jan-2017 10:51:34 America/New_York] PHP Notice:  Undefined variable: cs_v1_button_color in /home/cannqrfw/public_html/wp-content/plugins/cornerstone/includes/views/frontend/styles.php on line 114
+[01-Jan-2017 10:51:34 America/New_York] PHP Notice:  Undefined variable: cs_v1_button_border_color in /home/cannqrfw/public_html/wp-content/plugins/cornerstone/includes/views/frontend/styles.php on line 115
+[01-Jan-2017 10:51:34 America/New_York] PHP Notice:  Undefined variable: cs_v1_button_bg_color in /home/cannqrfw/public_html/wp-content/plugins/cornerstone/includes/views/frontend/styles.php on line 116
+[01-Jan-2017 10:51:34 America/New_York] PHP Notice:  Undefined variable: cs_v1_button_style in /home/cannqrfw/public_html/wp-content/plugins/cornerstone/includes/views/frontend/styles.php on line 118
+[01-Jan-2017 10:51:34 America/New_York] PHP Notice:  Undefined variable: cs_v1_button_style in /home/cannqrfw/public_html/wp-content/plugins/cornerstone/includes/views/frontend/styles.php on line 122
+[01-Jan-2017 10:51:34 America/New_York] PHP Notice:  Undefined variable: cs_v1_button_style in /home/cannqrfw/public_html/wp-content/plugins/cornerstone/includes/views/frontend/styles.php on line 124
+[01-Jan-2017 10:51:34 America/New_York] PHP Notice:  Undefined variable: cs_v1_button_shape in /home/cannqrfw/public_html/wp-content/plugins/cornerstone/includes/views/frontend/styles.php on line 130
+[01-Jan-2017 10:51:34 America/New_York] PHP Notice:  Undefined variable: cs_v1_button_shape in /home/cannqrfw/public_html/wp-content/plugins/cornerstone/includes/views/frontend/styles.php on line 132
+[01-Jan-2017 10:51:34 America/New_York] PHP Notice:  Undefined variable: cs_v1_button_size in /home/cannqrfw/public_html/wp-content/plugins/cornerstone/includes/views/frontend/styles.php on line 136
+[01-Jan-2017 10:51:34 America/New_York] PHP Notice:  Undefined variable: cs_v1_button_size in /home/cannqrfw/public_html/wp-content/plugins/cornerstone/includes/views/frontend/styles.php on line 139
+[01-Jan-2017 10:51:34 America/New_York] PHP Notice:  Undefined variable: cs_v1_button_size in /home/cannqrfw/public_html/wp-content/plugins/cornerstone/includes/views/frontend/styles.php on line 142
+[01-Jan-2017 10:51:34 America/New_York] PHP Notice:  Undefined variable: cs_v1_button_size in /home/cannqrfw/public_html/wp-content/plugins/cornerstone/includes/views/frontend/styles.php on line 145
+[01-Jan-2017 10:51:34 America/New_York] PHP Notice:  Undefined variable: cs_v1_button_size in /home/cannqrfw/public_html/wp-content/plugins/cornerstone/includes/views/frontend/styles.php on line 148
+[01-Jan-2017 10:51:34 America/New_York] PHP Notice:  Undefined variable: cs_v1_button_color_hover in /home/cannqrfw/public_html/wp-content/plugins/cornerstone/includes/views/frontend/styles.php on line 157
+[01-Jan-2017 10:51:34 America/New_York] PHP Notice:  Undefined variable: cs_v1_button_border_color_hover in /home/cannqrfw/public_html/wp-content/plugins/cornerstone/includes/views/frontend/styles.php on line 158
+[01-Jan-2017 10:51:34 America/New_York] PHP Notice:  Undefined variable: cs_v1_button_bg_color_hover in /home/cannqrfw/public_html/wp-content/plugins/cornerstone/includes/views/frontend/styles.php on line 159
+[01-Jan-2017 10:51:34 America/New_York] PHP Notice:  Undefined variable: cs_v1_button_style in /home/cannqrfw/public_html/wp-content/plugins/cornerstone/includes/views/frontend/styles.php on line 161
+[01-Jan-2017 10:51:34 America/New_York] PHP Notice:  Undefined variable: cs_v1_button_style in /home/cannqrfw/public_html/wp-content/plugins/cornerstone/includes/views/frontend/styles.php on line 165
+[01-Jan-2017 10:51:34 America/New_York] PHP Notice:  Undefined variable: cs_v1_button_style in /home/cannqrfw/public_html/wp-content/plugins/cornerstone/includes/views/frontend/styles.php on line 167
+[01-Jan-2017 10:51:34 America/New_York] PHP Notice:  Undefined variable: cs_v1_button_bottom_color in /home/cannqrfw/public_html/wp-content/plugins/cornerstone/includes/views/frontend/styles.php on line 187
+[01-Jan-2017 10:51:34 America/New_York] PHP Notice:  Undefined variable: cs_v1_button_bottom_color_hover in /home/cannqrfw/public_html/wp-content/plugins/cornerstone/includes/views/frontend/styles.php on line 191
+[01-Jan-2017 10:51:34 America/New_York] PHP Fatal error:  Using $this when not in object context in /home/cannqrfw/public_html/wp-content/plugins/cornerstone/includes/views/frontend/global-style.php on line 1
+[01-Jan-2017 10:51:34 America/New_York] PHP Fatal error:  Using $this when not in object context in /home/cannqrfw/public_html/wp-content/plugins/cornerstone/includes/views/frontend/page-style.php on line 1

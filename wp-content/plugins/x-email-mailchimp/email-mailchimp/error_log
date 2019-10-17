@@ -1,0 +1,4 @@
+[01-Jan-2017 10:50:59 America/New_York] PHP Fatal error:  Call to undefined function plugins_url() in /home/cannqrfw/public_html/wp-content/plugins/x-email-mailchimp/email-mailchimp/setup.php on line 21
+[01-Jan-2017 10:50:59 America/New_York] PHP Fatal error:  Call to undefined function __() in /home/cannqrfw/public_html/wp-content/plugins/x-email-mailchimp/email-mailchimp/config.php on line 47
+[24-Sep-2017 11:44:34 America/New_York] PHP Fatal error:  Call to undefined function plugins_url() in /home/cannqrfw/public_html/wp-content/plugins/x-email-mailchimp/email-mailchimp/setup.php on line 21
+[24-Sep-2017 11:44:34 America/New_York] PHP Fatal error:  Call to undefined function __() in /home/cannqrfw/public_html/wp-content/plugins/x-email-mailchimp/email-mailchimp/config.php on line 47
