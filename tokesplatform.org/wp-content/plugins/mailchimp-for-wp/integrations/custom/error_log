@@ -1,0 +1,28 @@
+[19-Oct-2018 04:06:37 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home/cannqrfw/public_html/tokesplatform.org/wp-content/plugins/mailchimp-for-wp/integrations/custom/admin-before.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/cannqrfw/public_html/tokesplatform.org/wp-content/plugins/mailchimp-for-wp/integrations/custom/admin-before.php on line 2
+[23-Oct-2018 22:35:36 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home/cannqrfw/public_html/tokesplatform.org/wp-content/plugins/mailchimp-for-wp/integrations/custom/admin-before.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/cannqrfw/public_html/tokesplatform.org/wp-content/plugins/mailchimp-for-wp/integrations/custom/admin-before.php on line 2
+[15-Dec-2018 08:27:40 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home/cannqrfw/public_html/tokesplatform.org/wp-content/plugins/mailchimp-for-wp/integrations/custom/admin-before.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/cannqrfw/public_html/tokesplatform.org/wp-content/plugins/mailchimp-for-wp/integrations/custom/admin-before.php on line 2
+[29-Dec-2018 12:34:52 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home/cannqrfw/public_html/tokesplatform.org/wp-content/plugins/mailchimp-for-wp/integrations/custom/admin-before.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/cannqrfw/public_html/tokesplatform.org/wp-content/plugins/mailchimp-for-wp/integrations/custom/admin-before.php on line 2
+[12-Jan-2019 03:03:33 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home/cannqrfw/public_html/tokesplatform.org/wp-content/plugins/mailchimp-for-wp/integrations/custom/admin-before.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/cannqrfw/public_html/tokesplatform.org/wp-content/plugins/mailchimp-for-wp/integrations/custom/admin-before.php on line 2
+[22-Feb-2019 17:04:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home/cannqrfw/public_html/tokesplatform.org/wp-content/plugins/mailchimp-for-wp/integrations/custom/admin-before.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/cannqrfw/public_html/tokesplatform.org/wp-content/plugins/mailchimp-for-wp/integrations/custom/admin-before.php on line 2
+[06-Oct-2019 05:49:50 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home/cannqrfw/public_html/tokesplatform.org/wp-content/plugins/mailchimp-for-wp/integrations/custom/admin-before.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/cannqrfw/public_html/tokesplatform.org/wp-content/plugins/mailchimp-for-wp/integrations/custom/admin-before.php on line 2

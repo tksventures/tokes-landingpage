@@ -1,0 +1,224 @@
+[19-Oct-2018 04:06:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio-video.asf.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio-video.asf.php on line 17
+[19-Oct-2018 04:06:12 America/New_York] PHP Fatal error:  Class 'getid3_handler' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio-video.flv.php on line 76
+[19-Oct-2018 04:06:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio.ogg.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio.ogg.php on line 17
+[19-Oct-2018 04:06:12 America/New_York] PHP Fatal error:  Class 'getid3_handler' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.tag.id3v1.php on line 18
+[19-Oct-2018 04:06:12 America/New_York] PHP Fatal error:  Class 'getid3_handler' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio.mp3.php on line 25
+[19-Oct-2018 04:06:12 America/New_York] PHP Fatal error:  Class 'getid3_handler' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio.ac3.php on line 18
+[19-Oct-2018 04:06:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.tag.id3v2.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.tag.id3v2.php on line 17
+[19-Oct-2018 04:06:12 America/New_York] PHP Fatal error:  Class 'getid3_handler' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio.dts.php on line 21
+[19-Oct-2018 04:06:12 America/New_York] PHP Fatal error:  Class 'getid3_handler' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.tag.apetag.php on line 17
+[19-Oct-2018 04:06:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio.flac.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio.flac.php on line 18
+[19-Oct-2018 04:06:12 America/New_York] PHP Fatal error:  Class 'getid3_handler' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.tag.lyrics3.php on line 18
+[19-Oct-2018 04:06:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio-video.riff.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio-video.riff.php on line 26
+[19-Oct-2018 04:06:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio-video.quicktime.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio-video.quicktime.php on line 18
+[19-Oct-2018 04:06:12 America/New_York] PHP Fatal error:  Class 'getid3_handler' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio-video.matroska.php on line 216
+[23-Oct-2018 21:22:08 America/New_York] PHP Fatal error:  Class 'getid3_handler' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio-video.flv.php on line 76
+[23-Oct-2018 21:22:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio-video.asf.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio-video.asf.php on line 17
+[23-Oct-2018 21:22:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio.ogg.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio.ogg.php on line 17
+[23-Oct-2018 21:22:08 America/New_York] PHP Fatal error:  Class 'getid3_handler' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio.mp3.php on line 25
+[23-Oct-2018 21:22:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.tag.id3v2.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.tag.id3v2.php on line 17
+[23-Oct-2018 21:22:09 America/New_York] PHP Fatal error:  Class 'getid3_handler' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.tag.lyrics3.php on line 18
+[23-Oct-2018 21:22:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio.flac.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio.flac.php on line 18
+[23-Oct-2018 21:22:09 America/New_York] PHP Fatal error:  Class 'getid3_handler' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio.ac3.php on line 18
+[23-Oct-2018 21:22:09 America/New_York] PHP Fatal error:  Class 'getid3_handler' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.tag.apetag.php on line 17
+[23-Oct-2018 21:22:09 America/New_York] PHP Fatal error:  Class 'getid3_handler' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.tag.id3v1.php on line 18
+[23-Oct-2018 21:22:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio-video.riff.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio-video.riff.php on line 26
+[23-Oct-2018 21:22:09 America/New_York] PHP Fatal error:  Class 'getid3_handler' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio.dts.php on line 21
+[23-Oct-2018 21:22:09 America/New_York] PHP Fatal error:  Class 'getid3_handler' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio-video.matroska.php on line 216
+[23-Oct-2018 21:22:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio-video.quicktime.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio-video.quicktime.php on line 18
+[15-Dec-2018 08:07:19 America/New_York] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio-video.asf.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio-video.asf.php on line 17
+[15-Dec-2018 08:07:19 America/New_York] PHP Fatal error:  Class 'getid3_handler' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio-video.flv.php on line 76
+[15-Dec-2018 08:07:19 America/New_York] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio.ogg.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio.ogg.php on line 17
+[15-Dec-2018 08:07:19 America/New_York] PHP Fatal error:  Class 'getid3_handler' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio.mp3.php on line 25
+[15-Dec-2018 08:07:19 America/New_York] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.tag.id3v2.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.tag.id3v2.php on line 17
+[15-Dec-2018 08:07:19 America/New_York] PHP Fatal error:  Class 'getid3_handler' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.tag.id3v1.php on line 18
+[15-Dec-2018 08:07:19 America/New_York] PHP Fatal error:  Class 'getid3_handler' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio.ac3.php on line 18
+[15-Dec-2018 08:07:19 America/New_York] PHP Fatal error:  Class 'getid3_handler' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio.dts.php on line 21
+[15-Dec-2018 08:07:19 America/New_York] PHP Fatal error:  Class 'getid3_handler' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.tag.apetag.php on line 17
+[15-Dec-2018 08:07:19 America/New_York] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio.flac.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio.flac.php on line 18
+[15-Dec-2018 08:07:19 America/New_York] PHP Fatal error:  Class 'getid3_handler' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.tag.lyrics3.php on line 18
+[15-Dec-2018 08:07:19 America/New_York] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio-video.riff.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio-video.riff.php on line 26
+[15-Dec-2018 08:07:19 America/New_York] PHP Fatal error:  Class 'getid3_handler' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio-video.matroska.php on line 216
+[15-Dec-2018 08:07:19 America/New_York] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio-video.quicktime.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio-video.quicktime.php on line 18
+[29-Dec-2018 12:04:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio-video.asf.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio-video.asf.php on line 17
+[29-Dec-2018 12:04:22 America/New_York] PHP Fatal error:  Class 'getid3_handler' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio-video.flv.php on line 76
+[29-Dec-2018 12:04:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio.ogg.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio.ogg.php on line 17
+[29-Dec-2018 12:04:22 America/New_York] PHP Fatal error:  Class 'getid3_handler' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio.ac3.php on line 18
+[29-Dec-2018 12:04:22 America/New_York] PHP Fatal error:  Class 'getid3_handler' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.tag.lyrics3.php on line 18
+[29-Dec-2018 12:04:22 America/New_York] PHP Fatal error:  Class 'getid3_handler' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.tag.id3v1.php on line 18
+[29-Dec-2018 12:04:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.tag.id3v2.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.tag.id3v2.php on line 17
+[29-Dec-2018 12:04:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio.flac.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio.flac.php on line 18
+[29-Dec-2018 12:04:22 America/New_York] PHP Fatal error:  Class 'getid3_handler' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio.dts.php on line 21
+[29-Dec-2018 12:04:22 America/New_York] PHP Fatal error:  Class 'getid3_handler' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.tag.apetag.php on line 17
+[29-Dec-2018 12:04:22 America/New_York] PHP Fatal error:  Class 'getid3_handler' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio.mp3.php on line 25
+[29-Dec-2018 12:04:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio-video.riff.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio-video.riff.php on line 26
+[29-Dec-2018 12:04:22 America/New_York] PHP Fatal error:  Class 'getid3_handler' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio-video.matroska.php on line 216
+[29-Dec-2018 12:04:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio-video.quicktime.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio-video.quicktime.php on line 18
+[12-Jan-2019 02:50:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio-video.asf.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio-video.asf.php on line 17
+[12-Jan-2019 02:50:51 America/New_York] PHP Fatal error:  Class 'getid3_handler' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio-video.flv.php on line 76
+[12-Jan-2019 02:50:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio.ogg.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio.ogg.php on line 17
+[12-Jan-2019 02:50:51 America/New_York] PHP Fatal error:  Class 'getid3_handler' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio.mp3.php on line 25
+[12-Jan-2019 02:50:51 America/New_York] PHP Fatal error:  Class 'getid3_handler' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.tag.id3v1.php on line 18
+[12-Jan-2019 02:50:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.tag.id3v2.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.tag.id3v2.php on line 17
+[12-Jan-2019 02:50:51 America/New_York] PHP Fatal error:  Class 'getid3_handler' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio.ac3.php on line 18
+[12-Jan-2019 02:50:51 America/New_York] PHP Fatal error:  Class 'getid3_handler' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio.dts.php on line 21
+[12-Jan-2019 02:50:51 America/New_York] PHP Fatal error:  Class 'getid3_handler' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.tag.apetag.php on line 17
+[12-Jan-2019 02:50:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio.flac.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio.flac.php on line 18
+[12-Jan-2019 02:50:51 America/New_York] PHP Fatal error:  Class 'getid3_handler' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.tag.lyrics3.php on line 18
+[12-Jan-2019 02:50:51 America/New_York] PHP Fatal error:  Class 'getid3_handler' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio-video.matroska.php on line 216
+[12-Jan-2019 02:50:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio-video.riff.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio-video.riff.php on line 26
+[12-Jan-2019 02:50:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio-video.quicktime.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio-video.quicktime.php on line 18
+[22-Feb-2019 16:43:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio-video.asf.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio-video.asf.php on line 17
+[22-Feb-2019 16:43:37 America/New_York] PHP Fatal error:  Class 'getid3_handler' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio-video.flv.php on line 76
+[22-Feb-2019 16:43:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio.ogg.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio.ogg.php on line 17
+[22-Feb-2019 16:43:37 America/New_York] PHP Fatal error:  Class 'getid3_handler' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio.mp3.php on line 25
+[22-Feb-2019 16:43:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.tag.id3v2.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.tag.id3v2.php on line 17
+[22-Feb-2019 16:43:37 America/New_York] PHP Fatal error:  Class 'getid3_handler' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.tag.id3v1.php on line 18
+[22-Feb-2019 16:43:37 America/New_York] PHP Fatal error:  Class 'getid3_handler' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio.ac3.php on line 18
+[22-Feb-2019 16:43:38 America/New_York] PHP Fatal error:  Class 'getid3_handler' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio.dts.php on line 21
+[22-Feb-2019 16:43:38 America/New_York] PHP Fatal error:  Class 'getid3_handler' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.tag.apetag.php on line 17
+[22-Feb-2019 16:43:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio.flac.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio.flac.php on line 18
+[22-Feb-2019 16:43:38 America/New_York] PHP Fatal error:  Class 'getid3_handler' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.tag.lyrics3.php on line 18
+[22-Feb-2019 16:43:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio-video.riff.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio-video.riff.php on line 26
+[22-Feb-2019 16:43:38 America/New_York] PHP Fatal error:  Class 'getid3_handler' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio-video.matroska.php on line 216
+[22-Feb-2019 16:43:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio-video.quicktime.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio-video.quicktime.php on line 18
+[06-Oct-2019 05:49:37 America/New_York] PHP Fatal error:  Class 'getid3_handler' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio-video.flv.php on line 76
+[06-Oct-2019 05:49:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio-video.asf.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio-video.asf.php on line 17
+[06-Oct-2019 05:49:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio.ogg.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio.ogg.php on line 17
+[06-Oct-2019 05:49:37 America/New_York] PHP Fatal error:  Class 'getid3_handler' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio.mp3.php on line 25
+[06-Oct-2019 05:49:37 America/New_York] PHP Fatal error:  Class 'getid3_handler' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio.ac3.php on line 18
+[06-Oct-2019 05:49:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.tag.id3v2.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.tag.id3v2.php on line 17
+[06-Oct-2019 05:49:37 America/New_York] PHP Fatal error:  Class 'getid3_handler' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.tag.id3v1.php on line 18
+[06-Oct-2019 05:49:37 America/New_York] PHP Fatal error:  Class 'getid3_handler' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio.dts.php on line 21
+[06-Oct-2019 05:49:37 America/New_York] PHP Fatal error:  Class 'getid3_handler' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.tag.apetag.php on line 17
+[06-Oct-2019 05:49:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio.flac.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio.flac.php on line 18
+[06-Oct-2019 05:49:37 America/New_York] PHP Fatal error:  Class 'getid3_handler' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.tag.lyrics3.php on line 18
+[06-Oct-2019 05:49:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio-video.riff.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio-video.riff.php on line 26
+[06-Oct-2019 05:49:37 America/New_York] PHP Fatal error:  Class 'getid3_handler' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio-video.matroska.php on line 216
+[06-Oct-2019 05:49:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'getid3_lib' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio-video.quicktime.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/ID3/module.audio-video.quicktime.php on line 18

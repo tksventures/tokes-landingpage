@@ -1,0 +1,28 @@
+[19-Oct-2018 04:07:00 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home/cannqrfw/public_html/tokesplatform.org/wp-content/plugins/mailchimp-for-wp/includes/views/parts/lists-overview.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/cannqrfw/public_html/tokesplatform.org/wp-content/plugins/mailchimp-for-wp/includes/views/parts/lists-overview.php on line 1
+[23-Oct-2018 22:54:55 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home/cannqrfw/public_html/tokesplatform.org/wp-content/plugins/mailchimp-for-wp/includes/views/parts/lists-overview.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/cannqrfw/public_html/tokesplatform.org/wp-content/plugins/mailchimp-for-wp/includes/views/parts/lists-overview.php on line 1
+[15-Dec-2018 08:40:49 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home/cannqrfw/public_html/tokesplatform.org/wp-content/plugins/mailchimp-for-wp/includes/views/parts/lists-overview.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/cannqrfw/public_html/tokesplatform.org/wp-content/plugins/mailchimp-for-wp/includes/views/parts/lists-overview.php on line 1
+[29-Dec-2018 12:49:00 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home/cannqrfw/public_html/tokesplatform.org/wp-content/plugins/mailchimp-for-wp/includes/views/parts/lists-overview.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/cannqrfw/public_html/tokesplatform.org/wp-content/plugins/mailchimp-for-wp/includes/views/parts/lists-overview.php on line 1
+[12-Jan-2019 03:12:48 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home/cannqrfw/public_html/tokesplatform.org/wp-content/plugins/mailchimp-for-wp/includes/views/parts/lists-overview.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/cannqrfw/public_html/tokesplatform.org/wp-content/plugins/mailchimp-for-wp/includes/views/parts/lists-overview.php on line 1
+[22-Feb-2019 17:17:07 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home/cannqrfw/public_html/tokesplatform.org/wp-content/plugins/mailchimp-for-wp/includes/views/parts/lists-overview.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/cannqrfw/public_html/tokesplatform.org/wp-content/plugins/mailchimp-for-wp/includes/views/parts/lists-overview.php on line 1
+[06-Oct-2019 05:49:59 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home/cannqrfw/public_html/tokesplatform.org/wp-content/plugins/mailchimp-for-wp/includes/views/parts/lists-overview.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/cannqrfw/public_html/tokesplatform.org/wp-content/plugins/mailchimp-for-wp/includes/views/parts/lists-overview.php on line 1
