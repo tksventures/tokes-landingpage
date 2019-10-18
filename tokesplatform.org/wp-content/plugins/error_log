@@ -1,4 +1,0 @@
-[06-Apr-2019 08:41:30 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/cannqrfw/public_html/tokesplatform.org/wp-content/plugins/hello.php:59
-Stack trace:
-#0 {main}
-  thrown in /home/cannqrfw/public_html/tokesplatform.org/wp-content/plugins/hello.php on line 59

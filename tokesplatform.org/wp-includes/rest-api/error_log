@@ -1,7 +1,0 @@
-[19-Oct-2018 04:06:15 America/New_York] PHP Fatal error:  Class 'WP_HTTP_Response' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/rest-api/class-wp-rest-response.php on line 17
-[23-Oct-2018 21:22:09 America/New_York] PHP Fatal error:  Class 'WP_HTTP_Response' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/rest-api/class-wp-rest-response.php on line 17
-[15-Dec-2018 08:07:20 America/New_York] PHP Fatal error:  Class 'WP_HTTP_Response' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/rest-api/class-wp-rest-response.php on line 17
-[29-Dec-2018 12:04:26 America/New_York] PHP Fatal error:  Class 'WP_HTTP_Response' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/rest-api/class-wp-rest-response.php on line 17
-[12-Jan-2019 02:50:52 America/New_York] PHP Fatal error:  Class 'WP_HTTP_Response' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/rest-api/class-wp-rest-response.php on line 17
-[22-Feb-2019 16:43:40 America/New_York] PHP Fatal error:  Class 'WP_HTTP_Response' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/rest-api/class-wp-rest-response.php on line 17
-[06-Oct-2019 05:49:37 America/New_York] PHP Fatal error:  Class 'WP_HTTP_Response' not found in /home/cannqrfw/public_html/tokesplatform.org/wp-includes/rest-api/class-wp-rest-response.php on line 17
