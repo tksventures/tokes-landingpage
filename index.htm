@@ -137,7 +137,19 @@ img.emoji {
       <attribute name="height" value="472"></attribute>
     </dataobject>
   </pagemap>
-
+    <!-- Facebook Pixel Code -->
+    <script>
+        !function(f,b,e,v,n,t,s)
+        {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+        n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+        if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+        n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];
+        s.parentNode.insertBefore(t,s)}(window, document,'script',
+        'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '560034901471687');
+        fbq('track', 'PageView');
+    </script>
 </head>
 <body class="home blog">
 <script>
@@ -8399,12 +8411,13 @@ Winter</p>                    </div>
         </div>
     </div>
 </div>
+</div>
 <div class="modal fade modal--subscribe" id="modal-subscribe">
     <div class="modal-dialog modal-dialog--sm">
         <div class="modal-content">
             <div class="modal-bg"></div>
             <div class="modal-content-inner">
-                <button class="close" type="button" data-dismiss="modal">
+                <button id="modal-close" class="close" type="button" data-dismiss="modal">
                     <svg class="svgSymb svgSymb-sprite_close">
                         <use xlink:href="#sprite_close"></use>
                     </svg>
@@ -8413,42 +8426,60 @@ Winter</p>                    </div>
                     <h3 class="heading heading--xs">Subscribe now</h3>
                 </div>
                 <div class="modal-body">
-                    <script>(function() {
-	if (!window.mc4wp) {
-		window.mc4wp = {
-			listeners: [],
-			forms    : {
-				on: function (event, callback) {
-					window.mc4wp.listeners.push({
-						event   : event,
-						callback: callback
-					});
-				}
-			}
-		}
-	}
-})();
-</script><!-- MailChimp for WordPress v4.2.5 - https://wordpress.org/plugins/mailchimp-for-wp/ --><form id="mc4wp-form-1" class="mc4wp-form mc4wp-form-388" method="post" data-id="388" data-name=""><div class="mc4wp-form-fields"><div class="form__field-wrapper">
-    <div class="form__field-header">
-        <label>Fullname</label>
-    </div>
-    <div class="form__field">
-        <input class="input" type="text" name="EMAIL">
-    </div>
-</div>
-<div class="form__field-wrapper">
-    <div class="form__field-header">
-        <label>Email address</label>
-    </div>
-    <div class="form__field">
-        <input class="input" type="email" name="EMAIL">
-    </div>
-</div>
-<div class="form__actions">
-    <div class="btn-group btn-group--right">
-        <button class="btn btn--lg btn--green" type="submit">Submit</button>
-    </div>
-</div></div><label style="display: none !important;">Leave this field empty if you're human: <input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off"></label><input type="hidden" name="_mc4wp_timestamp" value="1565661464"><input type="hidden" name="_mc4wp_form_id" value="388"><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-1"><div class="mc4wp-response"></div></form><!-- / MailChimp for WordPress Plugin -->                </div>
+                    <form id="mc4wp-form-1" class="mc4wp-form mc4wp-form-388 klaviyo_gdpr_embed_JNzCxr" action="//manage.kmail-lists.com/subscriptions/subscribe?g=JNzCxr" data-ajax-submit="//manage.kmail-lists.com/ajax/subscriptions/subscribe?g=JNzCxr" method="GET" target="_blank" novalidate="novalidate">
+                        <input type="hidden" name="g" value="JNzCxr">
+                        <div class="mc4wp-form-fields">
+                            <div class="form__field-wrapper">
+                                <div class="form__field-header">
+                                    <label>Fullname</label>
+                                </div>
+                                <div class="form__field">
+                                    <input id="k_id_fullname" class="input" type="text" name="fullname">
+                                </div>
+                            </div>
+                            <div class="form__field-wrapper">
+                                <div class="form__field-header">
+                                    <label>Email address</label>
+                                </div>
+                                <div class="form__field">
+                                    <input id="k_id_email" class="input" type="email" name="email">
+                                </div>
+                            </div>
+                            <div class="form__actions">
+                                <div class="btn-group btn-group--right">
+                                    <button class="btn btn--lg btn--green" type="submit">Submit</button>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="mc4wp-response">
+                            <div class="success_message" style="display: none;">
+                                Thank you! Keep an eye out for updates!
+                            </div>
+                            <div class="error_message" style="display: none;">
+                                Not a valid email. Try again.
+                            </div>
+                        </div>
+                    </form>
+                    <script type="text/javascript" src="https://www.klaviyo.com/media/js/public/klaviyo_subscribe.js"></script>
+                    <script type="text/javascript">
+                        KlaviyoSubscribe.attachToForms('#mc4wp-form-1', {
+                            custom_error_message: true,
+                            custom_success_message: true,
+                            extra_properties: {
+                                $source: 'TokesPlatformSubscribePopup',
+                                Brand: 'TokesPlatform',
+                            },
+                            success: () => { 
+                                fbq('track', 'Lead'); 
+                                setTimeout(() => {
+                                    $('#k_id_fullname').val('');
+                                    $('#k_id_email').val('');
+                                    $('#modal-close').click();
+                                }, 750); 
+                            }
+                        });
+                    </script>            
+                </div>
             </div>
         </div>
     </div>
